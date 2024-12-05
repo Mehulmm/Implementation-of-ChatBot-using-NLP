@@ -1,6 +1,3 @@
-# Implementation-of-ChatBot-using-NLP
-Here’s a detailed description you can use for the **README** file of your GitHub project, **"Implementation of Chatbot using NLP"**:
-
 # **Implementation of Chatbot using NLP**
 
 This project demonstrates the development and implementation of a chatbot using **Natural Language Processing (NLP)** techniques. The chatbot is designed to simulate human-like conversations, offering a seamless interaction experience. This repository serves as a comprehensive guide to building a basic chatbot using Python, showcasing the potential of NLP in creating intelligent conversational agents.
